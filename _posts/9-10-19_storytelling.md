@@ -3,12 +3,15 @@
 ## You
 
 What do you care about?
+
 The virtual reality community
 
 What do you know about?
+
 I know how much fun virtual reality truly can be.
 
 What decisions do you face?
+
 How I can convince more individuals they need to enjoy a VR headset.
 
 ## Seven templates
