@@ -77,79 +77,113 @@ The most common misconception I hear about VR is that it’s only for gamers.
 ## Examples
 
 What data storytelling example inspires you?
+
 Who does in fact use VR headsets and why do so few people use them.
 
+
 Could you do a new hypothesis, for the same question?
+
 How could the community of VR Enthusiast join together and and show the world what VR Can Do.
 
+
 Could you do a new question, for the same topic?
+
 How does the press/news affect the sales of HMDs
 
-Could you do a new topic, with the same "style"?
 
+Could you do a new topic, with the same "style"?
 
 ## Data
 
 Where could you search for data about your topic?
+
 I will be using the steam hardware survey.
 https://store.steampowered.com/hwsurvey/Steam-Hardware-Software-Survey-Welcome-to-Steam
+
 
 # Ideas for data storytelling2
 
 ## You
 
 What do you care about?
+
 helping individuals new to PC gaming build their first PCS
 
+
 What do you know about?
+
 I know the majority of information needed to assemble almost any PC within the last 12 years.
 (including istallation of Windows or Linux)
 
+
 What decisions do you face?
+
 I want to be able to show how much fun PC gaming can be.
+
 
 ## Seven templates
 
 Can you apply the templates to your topics? 
 
 1. Geographic Variation
+
 Most common locations on the globe where people play PC games
 
+
 2. Trend related to the news
+
 How news and or press affect the buying and selling of video games.
 
+
 3. Who does that?
+
 What sort of people play PC games?
 
+
 4. Answering a question people care about
+
 Is PC gaming really that much better than console gaming
+
 
 5. Valuable to businesses
 
 
 6. What's the most popular?
+
 What combination of PC Hardware would get you the best Value?
 
+
 7. Cost/Money rankings
+
 How popular are high-end graphics cards compared to mid-range graphics cards?
+
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
+
 PC gaming is more expensive than console gaming.
+
 
 ## Examples
 
 What data storytelling example inspires you?
+
 Trying to show people that there is more value to PC gaming then console gaming.
 
+
 Could you do a new hypothesis, for the same question?
+
 Is console gaming better than PC gaming
 
+
 Could you do a new question, for the same topic?
+
 Can PC gaming be cheaper than console gaming
+
 
 ## Data
 
 Where could you search for data about your topic?
+
 https://store.steampowered.com/hwsurvey/Steam-Hardware-Software-Survey-Welcome-to-Steam
