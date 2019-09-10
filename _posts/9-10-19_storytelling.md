@@ -6,13 +6,16 @@ What do you care about?
 
 The virtual reality community
 
+
 What do you know about?
 
 I know how much fun virtual reality truly can be.
 
+
 What decisions do you face?
 
-How I can convince more individuals they need to enjoy a VR headset.
+How I can convince more individuals they should try a VR headset.
+
 
 ## Seven templates
 
@@ -21,39 +24,55 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 Can you apply the templates to your topics? 
 
 1. Geographic Variation
+
 What countries in the world have access to Virtual Reality headsets?
 
+
 2. Trend related to the news
+
 How does the news impact the buying and selling of new or used
 virtual reality headsets?
 
+
 3. Who does that?
+
 the large majority of people who own and use Virtual Reality headsets include:
   1) large corporations
   2)nerds and computer geeks
 
+
 4. Answering a question people care about
+
 What is Virtual Reality? (is the most popular question)
 
 'Virtual Reality (VR) is the full immersive 3D experience that the users receive with VR wearables. This computer generated environment     is interacted by a person who either becomes part of this virtual world or is immersed within this environment and is capable of                                          manipulating objects or performing a series of actions.'
 
 Quote from: https://arvrtech.eu/blog/12-most-frequent-questions-about-virtual-reality-answered/
 
+
 5. Valuable to businesses
+
 VR can be used in a wide variety of use cases such as:
 
 'professional training, architectural design, augmented reality anatomy, automobile virtual test drives, logistics and package delivery management, real estate virtual property tours, remote surgery, retail store virtual fitting rooms, and VR grid control.'
 
+
 6. What's the most popular?
+
 The Oculus rift cv1 is as of this post the most popular HMD to date. (I happen to use one)
 
+
 7. Cost/Money rankings
+
 It can very depending on the experience you are looking for from 1000$ (New Valve Index) or more to 15$ for a google Cardboard.
+
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
+
 The most common misconception I hear about VR is that it’s only for gamers.
+
 
 ## Examples
 
