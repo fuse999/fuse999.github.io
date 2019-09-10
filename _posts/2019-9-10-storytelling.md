@@ -1,3 +1,10 @@
+---
+title: storytelling assingment
+subtitle: I love PCs
+image:
+--- 
+
+
 # Ideas for data storytelling
 
 ## You
