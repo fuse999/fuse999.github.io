@@ -19,12 +19,8 @@ description: My first website
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+#   - Learn markdown: "http://www.markdowntutorial.com/"
+ # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -69,9 +65,9 @@ author:
 social-network-links:
   rss: true
   email: "rileypence4@gmail.com"
-#  facebook: deanattali
+  facebook: Riley Pence
   github: fuse999
-#  twitter: daattali
+  twitter: @fuse99999
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -81,7 +77,7 @@ social-network-links:
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+  steam: fuse99
 #  twitch: yourname
 #  yelp: yourname
 
@@ -101,7 +97,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-148335340-1"
 
 # Google Tag Manager ID
 #gtm: ""
