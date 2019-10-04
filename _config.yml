@@ -4,7 +4,7 @@
 title: Riley's Blog
 
 # Short description of your site
-description: My first website
+description: My first personally made portfolio site
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -19,7 +19,12 @@ description: My first website
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-  # - Learn markdown: "http://www.markdowntutorial.com/"
+  navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://deanattali.com"
   #Test site: "https://fuse999.github.io/AB-Demo/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -65,10 +70,10 @@ author:
 social-network-links:
   rss: true
   email: "rileypence4@gmail.com"
-  facebook: "Riley Pence"
+  facebook: "https://www.facebook.com/riley.pence.5"
   github: "fuse999"
   twitter: "@fuse99999"
-#  reddit: yourname
+  reddit: fuse999
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -78,7 +83,7 @@ social-network-links:
 #  spotify: yourname
 #  telephone: +14159998888
   steam: "fuse99"
-#  twitch: yourname
+  twitch: fuse991
 #  yelp: yourname
 
 # Select which share links to show in posts
