@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Riley's Blog
+title: Home
 
 # Short description of your site
 description: My first personally made portfolio site
@@ -22,9 +22,10 @@ description: My first personally made portfolio site
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Template I used: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - Git Hub Repo: "https://github.com/fuse999/fuse999.github.io"
+  Author's home: "https://fuse999.github.io/aboutme/"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
