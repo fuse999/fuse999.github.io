@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Home
+title: Riley Pence's Site
 
 # Short description of your site
 description: My first personally made portfolio site
@@ -74,14 +74,14 @@ social-network-links:
   github: "fuse999"
   twitter: "@fuse99999"
   reddit: fuse999
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/riley-pence99/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: 530-768-1160
   steam: "fuse99"
   twitch: fuse991
 #  yelp: yourname
