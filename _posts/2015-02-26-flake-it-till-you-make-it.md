@@ -1,15 +1,25 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
-tags: [books, test]
+title: Sound-Drip
+subtitle: If you have a Spotify Premium account, take a listen!
+bigimg: /img/Sound-Drip.jpg
+tags: [machinelearning, datascientists, lambdaschool, dataengineering, aws, sandiego, lambdaschool, hireme, python, backend]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+We made an app that takes your Spotify user data and uses machine learning to craft a playlist made up of similar songs! This project was fun, challenging, and intensive. Over the past seven weeks our team of data scientists:
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+- Aggregated more than 700,000 songs to train our algorithm on.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+- Built a machine learning algorithm to predict similar songs based off of acoustical data and metadata.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+- Built out a PostgreSQL back-end hosted on AWS RDS.
+
+- Used that backend to store user and song data for further analysis.
+
+- Scraped additional data from Spotify's API to use with our model training.
+
+- Migrated the entire back-end to to the suite of technologies offered on AWS, including Sagemaker, ECS and EC2, Elastic Beanstalk,     and S3.
+
+I love seeing what teams can accomplish when they push themselves!
+
+https://www.sound-drip.com
