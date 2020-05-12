@@ -11,28 +11,11 @@ My name is Riley Pence. I have the following qualities:
 - I always do my best
 - I learn quickly
 
-### First few weeks of assignments at Lambda:
-
-Here is a few samples:
-  (https://github.com/fuse999/DS-Unit-1-Sprint-1-Dealing-With-Data/blob/master/module4-makefeatures/Drive_LS_DS_114_Make_Features_Assignment.ipynb)
-  
-  (https://github.com/fuse999/DS-Unit-1-Sprint-2-Data-Wrangling-and-Storytelling/blob/master/module4/Riley_assignment_regression_classification_4.ipynb)
-  
-  (https://github.com/fuse999/DS-Unit-1-Sprint-3-Statistical-Tests-and-Experiments/blob/master/module2-sampling-confidence-intervals-and-hypothesis-testing/Drive_LS_DS_132_Sampling_Confidence_Intervals_and_Hypothesis_Testing_Assignment.ipynb)
-  
-  (https://github.com/fuse999/DS-Unit-1-Sprint-4-Linear-Algebra/blob/master/module4-clustering/Drive_Clustering_Assignment.ipynb)
-  
-  Current Assignment:
-  
-  (https://github.com/fuse999/DS-Unit-1-Sprint-2-Data-Wrangling-and-Storytelling/blob/master/module4/Riley_assignment_regression_classification_4.ipynb)
-  
-  And
-  
-  (https://drive.google.com/file/d/1yTodAl22b7-7Us9_3wwrR_Q1jQ3F1sZd/view?usp=sharing)
 
 ### My Mission Statement:
 
 I believe in working hard, doing my best no matter what I am doing, being honest, following rules, being reliable and faithful in my work, and I always look for opportunities to help others even if it is just making their day a little bit better
+
 
 ### Last Five Years Before Lambda:
 
